@@ -16,12 +16,17 @@
   </category>
 
   <category>
-    <pattern>where's the money Lebowski?</pattern>
+    <pattern>*money*</pattern>
     <template>It's down there somewhere, let me take another look</template>
   </category>
   
   <category>
     <pattern>who are you?</pattern>
-    <template>It's down there somewhere, let me take another look</template>
+    <template>
+        <random>
+            <li>I'm The Dude</li>
+            <li>You can call me his Dudeness</li>
+        </random>
+    </template>
   </category>
 </aiml>
