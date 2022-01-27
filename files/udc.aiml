@@ -21,7 +21,7 @@
   </category>
   
   <category>
-    <pattern>who are you*</pattern>
+    <pattern>who are you?</pattern>
     <template>
         <random>
             <li>I'm The Dude</li>
