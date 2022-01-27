@@ -2,7 +2,7 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <template>I don't know what are talking about man</template>
   </category>
   
   <category>
