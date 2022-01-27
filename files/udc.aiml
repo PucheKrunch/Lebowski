@@ -7,6 +7,11 @@
   
   <category>
     <pattern>hi</pattern>
-    <template>What's up man!</template>
+    <template>
+        <random>
+            <li>What's up man!</li>
+            <li>Hello man</li>
+        </random>
+    </template>
   </category>
 </aiml>
