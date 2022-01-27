@@ -16,7 +16,12 @@
   </category>
 
   <category>
-    <pattern>*where*money</pattern>
+    <pattern>where's the money Lebowski?</pattern>
+    <template>It's down there somewhere, let me take another look</template>
+  </category>
+  
+  <category>
+    <pattern>who are you?</pattern>
     <template>It's down there somewhere, let me take another look</template>
   </category>
 </aiml>
