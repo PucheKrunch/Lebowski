@@ -14,4 +14,9 @@
         </random>
     </template>
   </category>
+
+  <category>
+    <pattern>*where*money</pattern>
+    <template>It's down there somewhere, let me take another look</template>
+  </category>
 </aiml>
